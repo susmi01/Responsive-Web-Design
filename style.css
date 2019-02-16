@@ -10,6 +10,11 @@
   flex-wrap: wrap;
   width=20%;
 }
+#sb
+{
+  text-align:center;
+}
+
 #sai
 {
   background-color: LightGray;
